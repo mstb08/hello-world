@@ -1,0 +1,2 @@
+  git config --global user.email "marcel.stauber@tfs-haslach.at"
+  git config --global user.name "mstb08"
